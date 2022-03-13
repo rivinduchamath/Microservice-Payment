@@ -1,5 +1,5 @@
 
-# PAF - Microservices 🎉
+#  Microservices 🎉
 ## Payment Management and Product Management 
 ##Note : this payment microservice is connected with user microservice.
 ## Inorder to display the username in payment microservice, User must be signIn by using the user microservice.
